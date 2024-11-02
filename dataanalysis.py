@@ -7,7 +7,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, r
 import numpy as np
 import sklearn.feature_extraction.text as sk_text
 
-df = pd.read_csv("/content/test.csv")
+df = pd.read_csv("AmazonData.csv")
 print(df.head())
 
 
