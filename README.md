@@ -16,3 +16,6 @@ For the Logistic Regression classifier in the final fold, we identified the 20 w
 
 ### Results and Discussion:
 The results were analyzed, highlighting the strengths and weaknesses of each classifier. The performance metrics indicated that the SVM classifier performed best on the dataset, achieving better scores compared to the other classifiers.
+
+### Implementation :
+Originaly it was created with Notebook Jupyter and it was also extracted in a Python file. 
